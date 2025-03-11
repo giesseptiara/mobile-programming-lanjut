@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # my_app
+=======
+# flutter_giesrubby
+>>>>>>> 572d7ec10627fcecc9dc58022a55430fa74a9bce
 
 A new Flutter project.
 

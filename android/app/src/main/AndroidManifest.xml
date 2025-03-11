@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="my_app"
+=======
+        android:label="flutter_giesrubby"
+>>>>>>> 572d7ec10627fcecc9dc58022a55430fa74a9bce
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

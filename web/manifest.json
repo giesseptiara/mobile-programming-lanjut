@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "my_app",
     "short_name": "my_app",
+=======
+    "name": "flutter_giesrubby",
+    "short_name": "flutter_giesrubby",
+>>>>>>> 572d7ec10627fcecc9dc58022a55430fa74a9bce
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
